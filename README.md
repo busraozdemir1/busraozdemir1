@@ -1,7 +1,7 @@
-- 👋 Merhaba, ben @busraozdemir1 (Büşra Özdemir). Jeoloji Mühendisiyim ve aynı zamanda yazılıma olan ilgimle bilgisayar dünyasına adım attım. Şu anda React Front-End teknolojilerine odaklanarak kendimi geliştiriyor ve yeni projeler üzerinde çalışıyorum.
-- 🚀 Hedefim, jeoloji mühendisliği kariyerimle yazılım dünyasını birleştirmek ve inovasyonun ön saflarında yer almak.
-- 💞️ Voleybol benim için bir tutku ve şimdi yazılım geliştiricisi olmak da bende bir tutkuya dönüştü.💞️
-- ✨Kodlamaya olan tutkumla birlikte, spor ve jeoloji dünyasındaki deneyimlerimle benzersiz bir perspektif sunmayı amaçlıyorum. Her zaman öğrenmeye ve büyümeye açık biri olarak, bu yolculuğa sizinle birlikte devam etmek benim için heyecan verici!
+- 👋 Hello, I'm @busraozdemir1 (Büşra Özdemir). I am a Geological Engineer and I also stepped into the computer world with my interest in software. I am currently developing myself by focusing on React Front-End technologies and working on new projects.
+- 🚀 My goal is to combine my geological engineering career with the software world and be at the forefront of innovation.
+- 💞️ Volleyball is a passion for me and now being a software developer has also turned into a passion for me.💞️
+- ✨With my passion for coding, I aim to offer a unique perspective with my experiences in the world of sports and geology. As someone who is always open to learning and growing, I am excited to continue this journey with you!
 - Happy coding! 🚀🏐
 
 <!---
